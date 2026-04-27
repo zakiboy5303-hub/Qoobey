@@ -1,0 +1,171 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url(back.jpg);
+    background-color: green;
+background-size:130vw 130vh;
+background-repeat: no-repeat;
+}
+.hero {
+      background-image:url(casho.jpg);
+      height: 300px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-weight: bold;
+     padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    }
+header{
+    background-color: red;
+}
+/* class selector of menu page */
+.bg{
+    background-color: blue;
+    color: yellow;
+}
+
+header h1{
+    font-size: 3em;
+    text-align: center;
+    color:#ffffff;
+}
+
+/* descdent selector  */
+header p{
+    color: blue;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+}
+
+nav a{
+color: white;
+font-size:30px;
+   text-decoration: none;
+}
+
+ nav ul{
+    list-style-type:none;
+}
+
+
+main p{
+    line-height: 3em;
+    color: white;
+    letter-spacing: 20%;
+    text-indent: 30px;
+    
+}
+
+main p span {
+    color: white;
+    text-transform: uppercase;
+}
+
+main ul li{
+    /* list-style-image: url(); */
+}
+main h2{
+    text-align: center;
+    background: burlywood;
+    margin-bottom: 10px;
+    pedding: 10px;
+    border-radius: 50px;
+}
+
+.foot{
+    background-color: lightblue;
+   height:80px;
+
+   font-size: medium;
+   font-style: italic;
+    
+}
+
+.restaurant{
+width: 400px;
+height: 400px;
+}
+
+
+
+
+
+
+
+
+
+/* id selector of index page  */
+/* #resdescription{
+    color: rgb(15, 188, 26);
+} */
+
+
+
+/* menu*/
+    .zack{
+      background: #3E2723;
+      padding: 10px;
+      border-radius: 10px;
+      text-align: center;
+        margin-bottom: 20px;
+        color: yellow;
+    }
+
+.mn ul {
+    list-style-type: none;
+}
+    .zack img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+.hro{
+    background-color: #3E2723;
+}
+.D3{
+    background-color: grey ;
+}
+
+#y6{
+    border-radius: 50px;
+}
+
+h3 {
+    background-color: chocolate;
+    border-radius: 50px;
+    text-align: center;
+}
+
+body ul {
+    color: azure;
+}
+footer{
+    color: azure;
+}
+blockquote{
+    background-color:  #ffffff;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.yur{
+    background-image: url(Waa.jpg);
+    background-size: 100vw 120vh;
+}
+
+.bax{
+    background-image: url(waa1.jpg);
+    background-size: 120vw 140vh;
+    background-repeat: no-repeat;
+}
+
+.koo{
+    background-image: url(same.jpg);
+}
